@@ -4,6 +4,8 @@ started python around May 2021...
 
 Working on toys...
 
+school session...
+
 ~~留声机寄了~~
 
 ~~AS_kit还能用...应该吧~~
@@ -11,3 +13,5 @@ Working on toys...
 ~~新玩具在做了~~
 
 ~~新玩具差不多了~~
+
+~~开学了~~
