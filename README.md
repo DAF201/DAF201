@@ -8,6 +8,8 @@ school session...
 
 taking classes in UTD is just like imprisoning
 
+lockdown!
+
 ~~留声机寄了~~
 
 ~~AS_kit还能用...应该吧~~
@@ -19,3 +21,5 @@ taking classes in UTD is just like imprisoning
 ~~开学了~~
 
 ~~上课像坐牢~~
+
+~~怎样才能骗班上的人装锁呢🤔~~
