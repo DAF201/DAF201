@@ -10,6 +10,8 @@ taking classes in UTD is just like imprisoning
 
 lockdown!
 
+Not a good student
+
 ~~留声机寄了~~
 
 ~~AS_kit还能用...应该吧~~
