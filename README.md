@@ -1,4 +1,4 @@
-<img src='https://github.com/DAF201/DAF201/blob/main/Fangzhou%20Ye.pdf'>
+<img align='right' src='https://github.com/DAF201/DAF201/blob/main/Fangzhou%20Ye.pdf'>
 
 College Students...
 
