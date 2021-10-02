@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/DAF201/DAF201/blob/main/download.png'>
+//<img align='right' src='https://github.com/DAF201/DAF201/blob/main/download.png'>
 
 College Students...
 
