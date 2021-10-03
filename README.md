@@ -33,6 +33,7 @@ with open(name+'.py', 'w')as file1:
     with open(__file__,'r')as file2:
         file1.write(file2.read())
  ```
+will comes with self-distruction...just doesn't has time to make up those things yet...
  ___
 </details>
 personal interest repo:
