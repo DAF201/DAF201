@@ -107,7 +107,7 @@ ____
 </br>
 </br>
 
-[Heavy paranoia. Don't listen to people who don't gain my respectation. No matter who and why.](https://counseling.utdallas.edu/)
+
 
 </br>
 </br>
