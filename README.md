@@ -7,7 +7,7 @@ sleep protect repo:
 
 <details>
   <summary markdown="span">harmful repo:</summary>
-      C_kill: https://github.com/DAF201/C_kill, the CS1337 prod is driving me crazy
+      C_kill: https://github.com/DAF201/C_kill, the CS1337 prof is driving me crazy
 </details>
 personal interest repo:
     
