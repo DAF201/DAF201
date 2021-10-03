@@ -1,3 +1,4 @@
+# cout<<"
 ____
 Not a test taker due to memory issue. I am sorry about that.
 
@@ -38,8 +39,15 @@ personal interest repo:
 No more important things...
 
 or you want to see paper...
-<img src='https://github.com/DAF201/DAF201/blob/main/paper.jpg'>
+<img src='https://github.com/DAF201/DAF201/blob/main/paper.jpg' align='right'>
+
+</br>
+end...
+
 ____
+
+# "<<endl;
+
 </br>
 </br>
 </br>
