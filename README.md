@@ -24,6 +24,15 @@ sleep protect repo:
   ```
   ___
  currently working on another self copy thing...
+ looks like this...
+ ```
+ import random
+name = str(random.random())
+this_file=__file__
+with open(name+'.py', 'w')as file1:
+    with open(__file__,'r')as file2:
+        file1.write(file2.read())
+ ```
  ___
 </details>
 personal interest repo:
