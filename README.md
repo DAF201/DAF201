@@ -22,8 +22,9 @@ sleep protect repo:
   ```
   pip install git+https://github.com/DAF201/locks.git
   ```
-  
- currently working on an self copy thing...
+  ___
+ currently working on another self copy thing...
+ ___
 </details>
 personal interest repo:
     
