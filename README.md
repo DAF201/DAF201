@@ -35,6 +35,10 @@ personal interest repo:
 
   Lagging issue...because it is kind of img stream still, not a totally video stream. Maybe it will run better on better pc, who knows
   - [text_to_image](https://github.com/DAF201/toys/tree/main/text_image)
+
+toybox:
+
+  - [toy](https://github.com/DAF201/toys)
   
 No more important things...
 
