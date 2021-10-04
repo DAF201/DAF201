@@ -17,39 +17,20 @@ sleep protect repo:
 
 <details>
   <summary markdown="span">harmful repo:</summary>
-      C_kill:</br>https://github.com/DAF201/C_kill, the CS1337 prof is driving me crazy
+  General meaning, likely will cause some damage...
+  
+  ___
+  
+  - [C_kill](https://github.com/DAF201/C_kill), the CS1337 prof is driving me crazy
       
   ```
   pip install git+https://github.com/DAF201/locks.git
   ```
   ___
  currently working on another self copy thing...
- looks like this...
- ```
- import random
-name = str(random.random())
-this_file=__file__
-with open(name+'.py', 'w')as file1:
-    with open(__file__,'r')as file2:
-        file1.write(file2.read())
- ```
- and this
- ```
-times=0
-times = times+1
-this = __file__
-print("I has run for %s times!" % times)
-with open(__file__, 'r')as this_file:
-    this = this_file.readlines()[1:]
-temp = ''
-for x in this:
-    temp = temp+x
-this = temp
-with open(__file__, 'w')as file:
-    file.write('times=%s\n%s' % (times, this))
-
- ```
-will comes with self-distruction...just doesn't has time to make up those things yet...
+ 
+ - [Mole](https://github.com/DAF201/Mole)
+ 
  ___
 </details>
 personal interest repo:
