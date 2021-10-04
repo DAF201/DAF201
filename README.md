@@ -30,6 +30,8 @@ sleep protect repo:
  currently working on another self copy thing...
  
  - [Mole](https://github.com/DAF201/Mole)
+  
+  self_copy,self_change,self_distruct
  
  ___
 </details>
