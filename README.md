@@ -31,7 +31,7 @@ sleep protect repo:
  
  - [Mole](https://github.com/DAF201/Mole)
   
-  self_copy,self_change,self_distruct
+  self copy,self change,self distruct
  
  ___
 </details>
