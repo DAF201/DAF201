@@ -64,9 +64,13 @@ ____
 
 # "<<endl;
 
-1010/2021:
+10/10/2021:
 
 stop for a while...need some sort of break
+
+10/12/2021:
+
+busy for school stuff, even I am not a good student...
 
 </br>
 </br>
