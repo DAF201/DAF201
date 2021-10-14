@@ -72,6 +72,10 @@ stop for a while...need some sort of break
 
 busy for school stuff, even I am not a good student...
 
+10/14/2021:
+
+不会sql，爬
+
 </br>
 </br>
 </br>
