@@ -76,6 +76,10 @@ busy for school stuff, even I am not a good student...
 
 不会sql，爬
 
+10/17/2021:
+
+serious allergy...
+
 </br>
 </br>
 </br>
