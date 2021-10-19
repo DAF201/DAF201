@@ -14,27 +14,6 @@ sleep protect repo:
       ```
       pip install git+https://github.com/DAF201/locks.git
       ```
-
-<details>
-  <summary markdown="span">harmful repo:</summary>
-  General meaning, likely will cause some damage...
-  
-  ___
-  
-  - [C_kill](https://github.com/DAF201/C_kill), the CS1337 prof is driving me crazy
-      
-  ```
-  pip install git+https://github.com/DAF201/locks.git
-  ```
-  ___
- currently working on another self copy thing...
- 
- - [Mole](https://github.com/DAF201/Mole)
-  
-  self copy,self change,self distruct
- 
- ___
-</details>
 personal interest repo:
     
   - [AS_kit](https://github.com/DAF201/AS_kit)
