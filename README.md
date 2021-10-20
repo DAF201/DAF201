@@ -59,6 +59,13 @@ busy for school stuff, even I am not a good student...
 
 serious allergy...
 
+10/19/2021:
+
+<!DOCTYPE html>
+<body>
+    <audio src="./なんとかなるくない.mp3" controls loop></audio>
+</body>
+
 </br>
 </br>
 </br>
