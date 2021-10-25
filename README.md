@@ -61,7 +61,7 @@ serious allergy...
 
 10/19/2021:
 
-  ```
+  ```html
   <!DOCTYPE html>
   <body>
       <audio src="./なんとかなるくない.mp3" controls loop></audio>
