@@ -30,6 +30,14 @@ personal interest repo:
 toybox:
 
   - [toy](https://github.com/DAF201/toys)
+
+cluster:
+
+  - [cluster](https://github.com/DAF201/cluster)
+
+Scissor and Glue:
+
+  - [Scissor and Glue](https://github.com/DAF201/scissor_and_glue)
   
 No more important things...
 
