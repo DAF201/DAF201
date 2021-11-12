@@ -43,7 +43,7 @@ mimicry and mimesis:
 
   - [mimicry_and_mimesis](https://github.com/DAF201/mimicry_and_mimesis)
   
-   this is pretty much a cluster ++. But don't use this to handle huge file, that will use up all the memory.fx 1
+   this is pretty much a cluster ++. But don't use this to handle huge file, that will use up all the memory.
 
 No more important things...
 
