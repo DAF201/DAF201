@@ -39,6 +39,9 @@ Scissor and Glue:
 
   - [Scissor and Glue](https://github.com/DAF201/scissor_and_glue)
   
+mimicry and mimesis:
+
+  - [mimicry_and_mimesis](https://github.com/DAF201/mimicry_and_mimesis)
 No more important things...
 
 or you want to see paper...
