@@ -51,7 +51,7 @@ simulate:
 
   - [simulate](https://github.com/DAF201/simulate)
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;improved mimicry_and_mimesis,mimicry_and_mimesis++ lol
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;improved mimicry_and_mimesis, mimicry_and_mimesis++ lol
 
 No more important things...
 ___
