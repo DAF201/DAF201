@@ -50,10 +50,11 @@ mimicry and mimesis:
 simulate:
 
   - [simulate](https://github.com/DAF201/simulate)
-  - 
-   improved mimicry_and_mimesis,mimicry_and_mimesis++ lol
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;improved mimicry_and_mimesis,mimicry_and_mimesis++ lol
 
 No more important things...
+___
 
 or you want to see paper...
 <img src='https://github.com/DAF201/DAF201/blob/main/paper.jpg' align='right'>
