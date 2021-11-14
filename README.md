@@ -45,12 +45,13 @@ mimicry and mimesis:
 
   - [mimicry_and_mimesis](https://github.com/DAF201/mimicry_and_mimesis)
   
-   this is pretty much a cluster ++. But don't use this to handle huge file, that will use up all the memory.
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this is pretty much a cluster ++. But don't use this to handle huge file, that will use up all the memory.
    
 simulate:
 
   - [simulate](https://github.com/DAF201/simulate)
-   improved mimicry_and_mimesis
+  - 
+   improved mimicry_and_mimesis,mimicry_and_mimesis++ lol
 
 No more important things...
 
