@@ -59,7 +59,7 @@ transcendence:
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let you send files through the social media comment sections with a timer.
   
-  After the time runs out the file will no longer be able to unlock.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp After the time runs out the file will no longer be able to unlock.
   
 ___
 
