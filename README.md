@@ -65,7 +65,7 @@ Blink:
 
   - [Blink](https://github.com/DAF201/Blink)
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personal file host system, for file under 50mb
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personal file host, for file under 50mb.
   
 ___
 
