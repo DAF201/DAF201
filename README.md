@@ -37,13 +37,13 @@ cluster:
 
   - [cluster](https://github.com/DAF201/cluster)
 
-Scissor and Glue:
+~~Scissor and Glue:~~
 
-  - [Scissor and Glue](https://github.com/DAF201/scissor_and_glue)
+  ~~- [Scissor and Glue](https://github.com/DAF201/scissor_and_glue)~~
   
-mimicry and mimesis:
+~~mimicry and mimesis:~~
 
-  - [mimicry_and_mimesis](https://github.com/DAF201/mimicry_and_mimesis)
+  ~~- [mimicry_and_mimesis](https://github.com/DAF201/mimicry_and_mimesis)~~
   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this is pretty much a cluster ++. But don't use this to handle huge file, that will use up all the memory.
    
