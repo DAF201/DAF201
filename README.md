@@ -2,7 +2,7 @@
 ____
 Not a test taker due to memory issue. I am sorry about that.
 
-## current focus: [blink](http://blink-in.duckdns.org:4123)
+## current focus: [blink](http://hk.blink-in.ml:4123)
 
 
 
