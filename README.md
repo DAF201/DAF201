@@ -2,9 +2,10 @@
 ____
 Not a test taker due to memory issue. I am sorry about that.
 
-## current focus: ~~[blink](http://hk.blink-in.ml:4123)~~
+## current focus: [blink](https://blink-in.com)
 ## ~~server is currently offline~~
-## https://bkin.ml
+## server back online again
+## https://blink-in.com
 
 
 
