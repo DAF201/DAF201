@@ -3,6 +3,7 @@ ____
 Not a test taker due to memory issue. I am sorry about that.
 
 UPDATE: summer internship working, busy...
+
 ~~## current focus: [blink](https://blink-in.com)~~
 ## ~~server is currently offline~~
 ## server back online again
