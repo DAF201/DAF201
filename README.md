@@ -2,6 +2,6 @@ The website for backup and such things is still there, but I lost my private key
 
 [blink-in](https://www.blink-in.com)
 
-if you are here because of my resume, see below
+if you are here because of job application, see below
 
 [About me](https://github.com/DAF201/DAF201/blob/main/About/readme.md)
