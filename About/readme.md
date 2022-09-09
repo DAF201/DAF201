@@ -1,4 +1,5 @@
-# My name in law in fangzhou ye
+# My formal name is fangzhou ye
+unfortunately, many people read it as "fungi"...
 > address: Allen, Texas, 75013
 > 
 > email: DAF201@blink-in.com
