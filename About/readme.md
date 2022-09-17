@@ -1,7 +1,7 @@
 # My formal name is Fangzhou ye
 sadly, many people say it just like "fungi"...
 ---
-### general infomation
+# general infomation
 > Currently living in: <br>Allen, Texas, 75013
 > 
 > email: <br>DAF201@blink-in.com<br>fzy0429@gmail.com<br>1641853573@qq.com
@@ -16,16 +16,16 @@ sadly, many people say it just like "fungi"...
 >
 >  for APIs, see [this](https://github.com/DAF201/DAF201/blob/main/APIs.pdf)
 ---
-### Overview
+# Overview
 ---
 > A current college student who is working on a BS degree of CS in UTD, who started with programming in May 2021 (My earlier college was mostly math classes). Experience with Network programming and Embedded devices. Personally prefer scripting languages but am okay with C++ (don't like C). Currently working for NTX Embedded part-time.
 ---
-### Schooling
+# Schooling
 > Houston community college: AS of CS(for transfer), 1300 Holman St, Houston, TX 77004 2019-2021
 >
 > University of Texas at Dallas: TX 75080, 2021-?, BS of CS, 800 W Campbell Rd, Richardson
 ---
-### Experience
+# Experience
 ---
 > # J-Tech Digital, INC: Summer internship, May-Aug 2021
 > 
