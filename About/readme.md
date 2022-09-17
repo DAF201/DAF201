@@ -65,7 +65,7 @@ sadly, many people say it just like "fungi"...
 > 
 > some testing
 > 
-> environment: LUA, SDK: Crank storyboard, Customized Linux for embedded device
+> environment: Lua, SDK: Crank storyboard, Customized Linux for embedded device
 >
 > ## Wild Goose: an embedded touch screen for bear canning machine
 >
@@ -79,7 +79,7 @@ sadly, many people say it just like "fungi"...
 > 
 > ## Brix: A Sugar machine touch screen? (I don't know what that do the machine does for sure, they never told me) 
 >
-> environment: LUA, SDK: Crank storyboard, Customized Linux for embedded device
+> environment: Lua, SDK: Crank storyboard, Customized Linux for embedded device
 >
 > Task system redesign: a simulated task queue using Lua table. Allows to register tasks to the task queue, allows tasks to run once or forever, support task parameter from 0 to 5 for each task, and allows unregister forever running task by task id if needed.
 > 
