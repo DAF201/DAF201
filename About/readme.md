@@ -27,28 +27,34 @@ sadly, many people say it just like "fungi"...
 ---
 ### Experience
 ---
-> ## J-Tech Digital, INC: Summer internship, May-Aug 2021
+> # J-Tech Digital, INC: Summer internship, May-Aug 2021
 > 
 > 9807 Emily Ln, Suite 100, Stafford, TX 77477 (was at 12803 Park One Dr, Sugar Land, TX, 77478 when I was there)
-> 
+>
+> environment: python, VSC/HASS_VSC
 > A Walmart inventory update script, some other scripts, some development notes, and the remote control drive for J-200(a wireless video decoder) on the Home Assistant platform. 
 >
 > Leave because I was transferring from HCC(in Houston) to UTD(in Dallas)
 ---
-> ## NTX Embedded, Summer internship -> part-time, May 2022-? (this part was written Sep 2022)
+> # NTX Embedded, Summer internship -> part-time, May 2022-? (this part was written Sep 2022)
 >
 > 2423 Welwood Drive, Carrollton, TX 75010
 >
-> follett: an embedded touch screen for water dispenser 
+> ## follett: an embedded touch screen for water dispenser 
 >
 > environment: C, SDK: Microchip MPlab
 >
-> Power on icon replacement function, some bug fixing, and some testing (environment: LUA, SDK: Crank storyboard) 
+> Power on icon replacement function, some bug fixing, and some testing
+> 
+> environment: LUA, SDK: Crank storyboard
 >
-> Wild Goose: an embedded touch screen for bear canning machine
+> ## Wild Goose: an embedded touch screen for bear canning machine
 >
 > Keypad function redesign, some value backup functions, UI bugs fixing, some logic bugs fixing.
 > 
-> Brix: A Sugar machine touch screen? (I don't know what that do the machine does for sure) 
+>## Brix: A Sugar machine touch screen? (I don't know what that do the machine does for sure, they never told me) 
 >
+> environment: LUA, SDK: Crank storyboard
+>
+> Task system redesign, Timer system overwrite, communication system overwrite, keypad redesign, translation frame building.
 > 
