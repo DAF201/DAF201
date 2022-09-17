@@ -8,10 +8,8 @@ sadly, many people say it just like "fungi"...
 > 
 > cell phone:<br> (510)-513-9761 (text plz)
 > 
-> personal tools website (I cannot guarentee it work still, I lost the private key in an accident.
-> 
-> ### AND I CAN NOT GUARANTEE IT WILL STILL WORK OR NOT BECAUSE THE DATABASE IS NOT MINE. IF THE RULES CHANGED THEN THAT IS THE END OF THE STORY.
-> 
+> personal tools-site (I cannot guarentee it work still, I lost the private key in an accident so I cannot access server):
+>
 > [https://blink-in.com](https://blink-in.com) <br>cookies/admin authorization required for APIs
 >
 >  for APIs, see [this](https://github.com/DAF201/DAF201/blob/main/APIs.pdf)
