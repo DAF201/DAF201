@@ -38,3 +38,9 @@ sadly, many people say it just like "fungi"...
 > ## NTX Embedded, Summer internship -> part-time, May 2022-?
 >
 > 2423 Welwood Drive, Carrollton, TX 75010
+>
+> follett: a embedded touch screen for water dispenser
+> 
+> Power on icon replacement function, some bug fixing, and some testing (C, SDK:MPlab) 
+>
+> 
