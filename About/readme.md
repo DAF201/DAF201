@@ -30,9 +30,12 @@ sadly, many people say it just like "fungi"...
 > # J-Tech Digital, INC: Summer internship, May-Aug 2021
 > 
 > 9807 Emily Ln, Suite 100, Stafford, TX 77477 (was at 12803 Park One Dr, Sugar Land, TX, 77478 when I was there)
->
+> 
+> Scripts:
+> 
 > environment: python, VSC/HASS_VSC
-> A Walmart inventory update script, some other scripts, some development notes, and the remote control drive for J-200(a wireless video decoder) on the Home Assistant platform. Mostly http associated scripts.
+> 
+> A Walmart inventory update script, some other scripts, some development notes, and the remote control drive for J-200(a wireless video decoder) on the Home Assistant platform. Mostly http request and post associated scripts.
 >
 > Leave because I was transferring from HCC(in Houston) to UTD(in Dallas)
 ---
