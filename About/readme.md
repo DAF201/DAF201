@@ -59,18 +59,40 @@ sadly, many people say it just like "fungi"...
 >
 > environment: C, SDK: Microchip MPlab, No OS
 >
-> Power on icon replacement function, some bug fixing, and some testing
+> Power on icon replacement function
+> 
+> some bug fixing
+> 
+> some testing
 > 
 > environment: LUA, SDK: Crank storyboard, Customized Linux for embedded device
 >
 > ## Wild Goose: an embedded touch screen for bear canning machine
 >
-> Keypad function redesign, some value backup functions, UI bugs fixing, some logic bugs fixing.
+> Keypad function redesign (old one is too hard to use to me)
+> 
+> some new functions such as values backup
+> 
+> UI bugs fixing
+> 
+> some logic bugs fixing.
 > 
 > ## Brix: A Sugar machine touch screen? (I don't know what that do the machine does for sure, they never told me) 
 >
 > environment: LUA, SDK: Crank storyboard, Customized Linux for embedded device
 >
-> Task system redesign, Timer system overwrite, communication system overwrite, keypad redesign, translation frame building, functions adding, bugs fixing.
+> Task system redesign: a simulated task queue using Lua table. Allows to register tasks to the task queue, allows tasks to run once or forever, support task parameter from 0 to 5 for each task, and allows unregister forever running task by task id if needed.
+> 
+> Timer system overwrites: One timer and a task table. Allows to register task to the timer, to run the task with a wanted interval, support task parameter from 0 to 5 for each task, and allows unregister task by task id if needed. 
+> 
+> communication system overwrites: A more abstract function and reciver function that allows assigning starting register, number of registers to read/write, read/write different types of data, and can be registered into task system or timer to keep getting/posting data. Based on customized protocol over Modbus.
+> 
+> keypad redesign: The old one is pretty much an enum of where to put text and repeating steps... So I make a new one and reduced lines from 2000+ to about 200 to save my life from copying, pasting, and editing old code over and over when I need an input box.
+> 
+> translation frame building: this is a built-in tool to read a CSV translate file and replace all text, but you need to set it up. (I came up with my own translation frame using JSON but the manager said we will stick with the built-in one...)
+> 
+> functions adding: mini functions like heartbeat service to ensure the communication quality
+> 
+> bugs fixing
 > 
 >
