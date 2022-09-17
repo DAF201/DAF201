@@ -81,9 +81,9 @@ sadly, many people say it just like "fungi"...
 >
 > environment: Lua, SDK: Crank storyboard, Customized Linux for embedded device
 >
-> Task system redesign: a simulated task queue using Lua table. Allows to register tasks to the task queue, allows tasks to run once or forever, support task parameter from 0 to 5 for each task, and allows unregister forever running task by task id if needed.
+> task system redesign: a simulated task queue using Lua table. Allows to register tasks to the task queue, allows tasks to run once or forever, support task parameter from 0 to 5 for each task, and allows unregister forever running task by task id if needed.
 > 
-> Timer system overwrites: One timer and a task table. Allows to register task to the timer, to run the task with a wanted interval, support task parameter from 0 to 5 for each task, and allows unregister task by task id if needed. 
+> timer system overwrites: One timer and a task table. Allows to register task to the timer, to run the task with a wanted interval, support task parameter from 0 to 5 for each task, and allows unregister task by task id if needed. 
 > 
 > communication system overwrites: A more abstract function and reciver function that allows assigning starting register, number of registers to read/write, read/write different types of data, and can be registered into task system or timer to keep getting/posting data. Based on customized protocol over Modbus.
 > 
