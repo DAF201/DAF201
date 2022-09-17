@@ -35,12 +35,20 @@ sadly, many people say it just like "fungi"...
 >
 > Leave because I was transferring from HCC(in Houston) to UTD(in Dallas)
 ---
-> ## NTX Embedded, Summer internship -> part-time, May 2022-?
+> ## NTX Embedded, Summer internship -> part-time, May 2022-? (this part was written Sep 2022)
 >
 > 2423 Welwood Drive, Carrollton, TX 75010
 >
-> follett: a embedded touch screen for water dispenser
+> follett: an embedded touch screen for water dispenser 
+>
+> environment: C, SDK: Microchip MPlab
+>
+> Power on icon replacement function, some bug fixing, and some testing (environment: LUA, SDK: Crank storyboard) 
+>
+> Wild Goose: an embedded touch screen for bear canning machine
+>
+> Keypad function redesign, some value backup functions, UI bugs fixing, some logic bugs fixing.
 > 
-> Power on icon replacement function, some bug fixing, and some testing (C, SDK:MPlab) 
+> Brix: A Sugar machine touch screen? (I don't know what that do the machine does for sure) 
 >
 > 
