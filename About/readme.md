@@ -10,7 +10,9 @@ sadly, many people say it just like "fungi"...
 > 
 > personal tools-site (I cannot guarentee it work still, I lost the private key in an accident so I cannot access server):
 >
-> [https://blink-in.com](https://blink-in.com) <br>cookies/admin authorization required for APIs
+> [https://blink-in.com](https://blink-in.com)
+> 
+> cookies/admin authorization required for APIs
 >
 >  for APIs, see [this](https://github.com/DAF201/DAF201/blob/main/APIs.pdf)
 ---
