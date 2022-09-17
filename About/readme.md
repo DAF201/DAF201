@@ -31,13 +31,25 @@ sadly, many people say it just like "fungi"...
 > 
 > 9807 Emily Ln, Suite 100, Stafford, TX 77477 (was at 12803 Park One Dr, Sugar Land, TX, 77478 when I was there)
 > 
-> Scripts:
+> ## Scripts:
 > 
-> environment: python, VSC/HASS_VSC
+> environment: python, VSC
 > 
-> A Walmart inventory update script, some other scripts, some development notes, and the remote control drive for J-200(a wireless video decoder) on the Home Assistant platform. Mostly http request and post associated scripts.
+> A Walmart inventory update script, some other scripts like this.
+> 
+> ## A mini local network http server
 >
-> Leave because I was transferring from HCC(in Houston) to UTD(in Dallas)
+> environment: node js, VSC
+>
+> A mini server that read a local JSON file and returns it when received an HTTP request. Made for testing GraphQL.
+>
+> ## Home Assistant Control Drive for J-200
+> 
+> environment: python, VSC/HASS_VSC, Raspberry pi with HASS OS
+>
+> Allows controlling the J-200(a wireless video decoder) on the Home Assistant platform in the local network using a browser or mobile app. Based on HTTP protocol.
+> 
+> ## Left because I was transferring from HCC(in Houston) to UTD(in Dallas)
 ---
 > # NTX Embedded, Summer internship -> part-time, May 2022-? (this part was written Sep 2022)
 >
@@ -45,19 +57,20 @@ sadly, many people say it just like "fungi"...
 >
 > ## follett: an embedded touch screen for water dispenser 
 >
-> environment: C, SDK: Microchip MPlab
+> environment: C, SDK: Microchip MPlab, No OS
 >
 > Power on icon replacement function, some bug fixing, and some testing
 > 
-> environment: LUA, SDK: Crank storyboard
+> environment: LUA, SDK: Crank storyboard, Customized Linux for embedded device
 >
 > ## Wild Goose: an embedded touch screen for bear canning machine
 >
 > Keypad function redesign, some value backup functions, UI bugs fixing, some logic bugs fixing.
 > 
->## Brix: A Sugar machine touch screen? (I don't know what that do the machine does for sure, they never told me) 
+> ## Brix: A Sugar machine touch screen? (I don't know what that do the machine does for sure, they never told me) 
 >
-> environment: LUA, SDK: Crank storyboard
+> environment: LUA, SDK: Crank storyboard, Customized Linux for embedded device
 >
-> Task system redesign, Timer system overwrite, communication system overwrite, keypad redesign, translation frame building.
+> Task system redesign, Timer system overwrite, communication system overwrite, keypad redesign, translation frame building, functions adding, bugs fixing.
 > 
+>
