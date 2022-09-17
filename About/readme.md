@@ -35,3 +35,6 @@ sadly, many people say it just like "fungi"...
 >
 > Leave because I was transferring from HCC(in Houston) to UTD(in Dallas)
 ---
+> ## NTX Embedded, Summer internship -> part-time, May 2022-?
+>
+> 2423 Welwood Drive, Carrollton, TX 75010
