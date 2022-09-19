@@ -8,7 +8,7 @@ sadly, many people say it just like "fungi"...
 > 
 > cell phone:<br> (510)-513-9761 (text plz)
 > 
-> personal tools-site (I cannot guarentee it work still, I lost the private key in an accident so I cannot access server):
+> personal tools-site (I cannot guarentee it work still, I lost the private key in an SSD accident so I cannot access server):
 >
 > [https://blink-in.com](https://blink-in.com)
 > 
@@ -97,3 +97,18 @@ sadly, many people say it just like "fungi"...
 > 
 > testing
 ---
+# Personal
+---
+> ## Toys: some toys I made when I was starting, most of them have a backup on GitHub or were lost in the SSD accident I mentioned earlier.
+> 
+> environment: Python, JavaScript, HTML, SDK: VSC, Windows10
+> 
+> Pretty much "just for fun" one file micro project
+> 
+> ---
+>
+> ## Blink-in: my tools kit website, mean to bypass CN SNS inspection
+>
+> environment: Python, JavaScript, HTML, VBS, SDK: VSC, AWS Windows 10 cloud server
+> 
+> 
