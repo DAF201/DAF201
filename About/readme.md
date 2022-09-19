@@ -179,7 +179,9 @@ sadly, many people say it just like "fungi"...
 >
 >> white out: single direction URL linked nodes, each node can only be used once and it will generate a new node for it
 >> 
->> how it works: similar to short url
+>> how it works: 
+>> 
+>> similar to short url, but will remove current node and create a new node each time a URL being accessed
 >
 >> retrieve: short URL
 >>
