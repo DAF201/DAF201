@@ -122,6 +122,10 @@ sadly, many people say it just like "fungi"...
 > 
 > functions adding: mini functions like heartbeat service to ensure the communication quality
 > 
+> a new backend framework(they didn't use)
+>
+> a new translation framework(they didn't use too)
+>
 > bugs fixing(basically overwrite old code, I don't want to look in to what is going on with function which try to enum all the possible situation)
 > 
 > testing
