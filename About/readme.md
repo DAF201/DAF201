@@ -57,7 +57,11 @@ sadly, many people say it just like "fungi"...
 >
 > ## follett: an embedded touch screen for water dispenser 
 >
-> environment: C, SDK: Microchip MPlab, No OS
+> languages: C
+> 
+> SDK: Microchip MPlab
+> 
+> environment: No OS
 >
 > Power on icon replacement function
 > 
@@ -65,7 +69,11 @@ sadly, many people say it just like "fungi"...
 > 
 > some testing
 > 
-> environment: Lua, SDK: Crank storyboard, Customized Linux for embedded device
+> languages: Lua
+> 
+> SDK: Crank storyboard
+> 
+> environment: Customized Linux for embedded device
 >
 > ## Wild Goose: an embedded touch screen for bear canning machine
 >
