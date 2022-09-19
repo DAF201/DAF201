@@ -188,3 +188,7 @@ sadly, many people say it just like "fungi"...
 >> how it works: 
 >> 
 >> same as hash
+>
+>> Control pannel: provide some remote control
+>> 
+>> [screenshot](https://github.com/DAF201/DAF201/blob/main/About/Screenshot%20(91).png)
