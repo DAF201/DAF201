@@ -183,4 +183,6 @@ sadly, many people say it just like "fungi"...
 >
 >> retrieve: short URL
 >>
->> how it works: hash
+>> how it works: 
+>> 
+>> same as hash
