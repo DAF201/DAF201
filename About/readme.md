@@ -33,19 +33,31 @@ sadly, many people say it just like "fungi"...
 > 
 > ## Scripts:
 > 
-> environment: python, VSC
+> languages: python
 > 
+> SDK: VSC
+>
+> environment: ?(they don't let me participate real machine test)
+>
 > A Walmart inventory update script, some other scripts like this
 > 
 > ## A mini local network http server
 >
-> environment: node js, VSC
+> languages: node js
+> 
+> SDK: VSC
+>
+> environment: ?
 >
 > A mini server that read a local JSON file and returns it when received an HTTP request. Made for testing GraphQL.
 >
 > ## Home Assistant Control Drive for J-200
 > 
-> environment: python, VSC/HASS_VSC, Raspberry pi with HASS OS
+> languages: python
+> 
+> SDK: VSC/HASS_VSC
+> 
+> environment: Raspberry pi with HASS OS (linux kernel)
 >
 > Allows controlling the J-200(a wireless video decoder) on the Home Assistant platform in the local network using a browser or mobile app. Based on HTTP protocol.
 > 
