@@ -162,7 +162,7 @@ sadly, many people say it just like "fungi"...
 >> 
 >> how it works:
 >> 
->> read file or image bytes, convert into an image and upload to an image database, then convert URL to string
+>> read file or image bytes, convert into an image and upload to an image database, then convert URL to string.[For example](https://i0.hdslb.com/bfs/album/d9e354fc694565993cb36af968949e317e7874e8.png)(still alive Sep 2022)
 >> 
 >
 >> transcendence: small file to GIF
