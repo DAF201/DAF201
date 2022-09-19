@@ -79,7 +79,11 @@ sadly, many people say it just like "fungi"...
 > 
 > ## Brix: A Sugar machine touch screen? (I don't know what that do the machine does for sure, they never told me) 
 >
-> environment: Lua, SDK: Crank storyboard, Customized Linux for embedded device
+> languages: Lua
+> 
+> SDK: Crank storyboard
+> 
+> environment: Customized Linux for embedded device
 >
 > task system redesign: a simulated task queue using Lua table. Allows to register tasks to the task queue, allows tasks to run once or forever, support task parameter from 0 to 5 for each task, and allows unregister forever running task by task id if needed
 > 
@@ -101,7 +105,11 @@ sadly, many people say it just like "fungi"...
 ---
 > ## Toys: some toys I made when I was starting, most of them have a backup on GitHub or were lost in the SSD accident I mentioned earlier.
 > 
-> environment: Python, JavaScript, HTML, SDK: VSC, Windows10
+> languages: Python, JavaScript, HTML
+> 
+> SDK: VSC
+> 
+> environment: Windows10
 > 
 > Pretty much "just for fun" one file micro project
 > 
@@ -109,6 +117,10 @@ sadly, many people say it just like "fungi"...
 >
 > ## Blink-in: my tools kit website, mean to bypass CN SNS inspection
 >
-> environment: Python, JavaScript, HTML, VBS, SDK: VSC, AWS Windows 10 cloud server
+> languages: Python, JavaScript, HTML, VBS
+> 
+> SDK: VSC
+> 
+> environment: AWS Windows 10 cloud server
 > 
 > 
