@@ -175,4 +175,4 @@ sadly, many people say it just like "fungi"...
 >> 
 >> how it works:
 >> 
->> see Unicode U+200B
+>> see Unicode U+200B, I just made a way of encoding/decoding
