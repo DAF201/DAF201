@@ -150,11 +150,9 @@ sadly, many people say it just like "fungi"...
 > 
 > ### functions: 
 > 
->> blink-in: file transstorage, last about 6 months
+>> blink-in: file transstorage, last about 6 months(no longer working due to database rules change)
 >> 
 >> storage a image/file less than 50 MB, return a 56 characters string which as a key to get image/file
->>
->> not longer function since July 2022 because of database rules change? (It looks like)
 >>
 >> downloading still working for uploaded and not expired images/files
 >>
