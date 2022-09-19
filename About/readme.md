@@ -167,3 +167,6 @@ sadly, many people say it just like "fungi"...
 >> 
 >> may not always work cause some SNS platform compress GIF
 >> 
+>> how it works:
+>> 
+>> very simple "binary adding", since some CN SNS platform does not compress or do redurentant data validation for small GIF.
