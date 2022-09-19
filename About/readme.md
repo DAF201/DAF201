@@ -57,7 +57,7 @@ sadly, many people say it just like "fungi"...
 > 
 > SDK: VSC/HASS_VSC
 > 
-> environment: Raspberry pi with HASS OS (linux kernel)
+> environment: Raspberry pi with HASS OS (linux kernel, I managed to stopped the boosting once and the Linux shell shows up)
 >
 > Allows controlling the J-200(a wireless video decoder) on the Home Assistant platform in the local network using a browser or mobile app. Based on HTTP protocol.
 > 
