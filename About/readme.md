@@ -18,7 +18,7 @@ sadly, many people say it just like "fungi"...
 ---
 # Overview
 ---
-> A current college student who is working on a BS degree of CS in UTD, who started with programming in May 2021 (My earlier college was mostly math classes). Experience with Network programming and Embedded devices. Personally prefer scripting languages but am okay with C++ (don't like C). Currently working for NTX Embedded part-time.
+> A current college student who is working on a BS degree of CS in UTD, who started with programming in May 2021 (My earlier college was mostly math classes). Experience with Network programming and Embedded devices. Personally prefer scripting languages but am okay with C++ (don't like C). Currently working for NTX Embedded part-time
 ---
 # Schooling
 > Houston community college: AS of CS(for transfer), 1300 Holman St, Houston, TX 77004 2019-2021
@@ -35,7 +35,7 @@ sadly, many people say it just like "fungi"...
 > 
 > environment: python, VSC
 > 
-> A Walmart inventory update script, some other scripts like this.
+> A Walmart inventory update script, some other scripts like this
 > 
 > ## A mini local network http server
 >
@@ -75,19 +75,19 @@ sadly, many people say it just like "fungi"...
 > 
 > UI bugs fixing
 > 
-> some logic bugs fixing.
+> some logic bugs fixing(overwrite)
 > 
 > ## Brix: A Sugar machine touch screen? (I don't know what that do the machine does for sure, they never told me) 
 >
 > environment: Lua, SDK: Crank storyboard, Customized Linux for embedded device
 >
-> task system redesign: a simulated task queue using Lua table. Allows to register tasks to the task queue, allows tasks to run once or forever, support task parameter from 0 to 5 for each task, and allows unregister forever running task by task id if needed.
+> task system redesign: a simulated task queue using Lua table. Allows to register tasks to the task queue, allows tasks to run once or forever, support task parameter from 0 to 5 for each task, and allows unregister forever running task by task id if needed
 > 
-> timer system overwrites: One timer and a task table. Allows to register task to the timer, to run the task with a wanted interval, support task parameter from 0 to 5 for each task, and allows unregister task by task id if needed. 
+> timer system overwrites: One timer and a task table. Allows to register task to the timer, to run the task with a wanted interval, support task parameter from 0 to 5 for each task, and allows unregister task by task id if needed
 > 
 > communication system overwrites: A more abstract function and reciver function that allows assigning starting register, number of registers to read/write, read/write different types of data, and can be registered into task system or timer to keep getting/posting data. Based on customized protocol over Modbus.
 > 
-> keypad redesign: The old one is pretty much an enum of where to put text and repeating steps... So I make a new one and reduced lines from 2000+ to about 200 to save my life from copying, pasting, and editing old code over and over when I need an input box.
+> keypad redesign: The old one is pretty much an enum of where to put text and repeating steps... So I make a new one and reduced lines from 2000+ to about 200 to save my life from copying, pasting, and editing old code over and over when I need an input box
 > 
 > translation frame building: this is a built-in tool to read a CSV translate file and replace all text, but you need to set it up. (I came up with my own translation frame using JSON but the manager said we will stick with the built-in one...)
 > 
