@@ -93,7 +93,7 @@ sadly, many people say it just like "fungi"...
 > 
 > functions adding: mini functions like heartbeat service to ensure the communication quality
 > 
-> bugs fixing(overwrite, I don't want to look in to garbages)
+> bugs fixing(basically overwrite old code, I don't want to look in to garbage)
 > 
 > testing
 ---
