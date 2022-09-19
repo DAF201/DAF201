@@ -148,4 +148,15 @@ sadly, many people say it just like "fungi"...
 > 
 > environment: AWS Windows 10 cloud server
 > 
+> ### functions: 
 > 
+> blink-in: file transstorage, last about 6 months
+> 
+> storage a image/file less than 50 mb, return a string
+> 
+> not longer function since July 2022 because of database rules change? (It looks like)
+>
+> downloading still working for uploaded and not expired images/files
+>
+> you may try: MmJiMGY2ZDc5YzIwNDU1ZGM2OWRhNzAzMmVjMzZjNDJkZDQwMTFiMA== as file, inside is "discommunication alians.mp4" (still alive at sep 2022)
+>
