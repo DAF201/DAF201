@@ -189,6 +189,6 @@ sadly, many people say it just like "fungi"...
 >> 
 >> same as hash
 >
->> Control pannel: provide some remote control
+>> Control pannel: provide some remote controls to server
 >> 
 >> [screenshot](https://github.com/DAF201/DAF201/blob/main/About/Screenshot%20(91).png)
