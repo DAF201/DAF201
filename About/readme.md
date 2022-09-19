@@ -170,3 +170,9 @@ sadly, many people say it just like "fungi"...
 >> how it works:
 >> 
 >> very simple "binary adding", since some CN SNS platform does not compress or do redurentant data validation for small GIF.
+>
+>> cluster: insert words into words, pass hidden message via normal message
+>> 
+>> how it works:
+>> 
+>> see Unicode U+200B
