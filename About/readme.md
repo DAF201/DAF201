@@ -177,6 +177,10 @@ sadly, many people say it just like "fungi"...
 >> 
 >> see Unicode U+200B, I just made a way of encoding/decoding
 >
->> retrieve: URL nodes, each node can only be used once and it will generate a new node for it
+>> white out: single direction URL linked nodes, each node can only be used once and it will generate a new node for it
 >> 
 >> how it works: similar to short url
+>
+>> retrieve: short URL
+>>
+>> how it works: hash
