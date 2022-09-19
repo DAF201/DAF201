@@ -63,7 +63,9 @@ sadly, many people say it just like "fungi"...
 > 
 > ## Left because I was transferring from HCC(in Houston) to UTD(in Dallas)
 ---
-> # NTX Embedded, Summer internship -> part-time, May 2022-? (this part was written Sep 2022)
+> # NTX Embedded, Summer internship -> part-time, May 2022-? 
+>
+> this part was written Sep 2022 
 >
 > 2423 Welwood Drive, Carrollton, TX 75010
 >
@@ -81,14 +83,15 @@ sadly, many people say it just like "fungi"...
 > 
 > some testing
 > 
+> ---
+> ## Wild Goose: an embedded touch screen for bear canning machine
+> 
 > languages: Lua
 > 
 > SDK: Crank storyboard
 > 
 > environment: Customized Linux for embedded device
->
-> ## Wild Goose: an embedded touch screen for bear canning machine
->
+> 
 > Keypad function redesign (old one is too hard to use to me)
 > 
 > some new functions such as values backup
@@ -96,6 +99,8 @@ sadly, many people say it just like "fungi"...
 > UI bugs fixing
 > 
 > some logic bugs fixing(overwrite)
+> 
+> ---
 > 
 > ## Brix: A Sugar machine touch screen? (I don't know what that do the machine does for sure, they never told me) 
 >
