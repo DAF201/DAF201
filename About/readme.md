@@ -152,11 +152,11 @@ sadly, many people say it just like "fungi"...
 > 
 > blink-in: file transstorage, last about 6 months
 > 
-> storage a image/file less than 50 mb, return a string
+> storage a image/file less than 50 MB, return a 56 characters string which as a key to get image/file
 > 
 > not longer function since July 2022 because of database rules change? (It looks like)
 >
 > downloading still working for uploaded and not expired images/files
 >
-> you may try: MmJiMGY2ZDc5YzIwNDU1ZGM2OWRhNzAzMmVjMzZjNDJkZDQwMTFiMA== as file, inside is "discommunication alians.mp4" (still alive at sep 2022)[screenshot](https://github.com/DAF201/DAF201/blob/main/About/Screenshot%20(90).png)
+> you may try: MmJiMGY2ZDc5YzIwNDU1ZGM2OWRhNzAzMmVjMzZjNDJkZDQwMTFiMA== as file, inside is "discommunication alians.mp4". [screenshot](https://github.com/DAF201/DAF201/blob/main/About/Screenshot%20(90).png)(still alive at sep 2022)
 >
