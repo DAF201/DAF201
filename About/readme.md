@@ -181,7 +181,7 @@ sadly, many people say it just like "fungi"...
 >> 
 >> how it works: 
 >> 
->> similar to short url, but will remove current node and create a new node each time a URL being accessed
+>> similar to short URL, but will remove current node and create a new node each time a URL being accessed
 >
 >> retrieve: short URL
 >>
