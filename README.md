@@ -9,3 +9,9 @@ Maybe I will make a new one using other tools when I am free in the future.
 if you are here because of job application, see below
 
 [About me(unfinish)](https://github.com/DAF201/DAF201/blob/main/About/readme.md)
+
+----
+
+dont ask, IDK
+
+![](https://github.com/DAF201/DAF201/blob/main/D7BFBCF6-D118-4151-BFB4-A225CB3209DE.png)
