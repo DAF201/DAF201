@@ -12,6 +12,8 @@ if you are here because of job application, see below
 
 ----
 
-dont ask, IDK
+10/07/22
+
+Don't ask what happened, IDK
 
 ![](https://github.com/DAF201/DAF201/blob/main/D7BFBCF6-D118-4151-BFB4-A225CB3209DE.png)
