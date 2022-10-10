@@ -11,6 +11,9 @@ if you are here because of job application, see below
 [About me(unfinish)](https://github.com/DAF201/DAF201/blob/main/About/readme.md)
 
 ----
+10/10/22
+
+VSC blowed up but I have no idea how to fix it
 
 10/07/22
 
