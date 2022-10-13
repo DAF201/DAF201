@@ -13,6 +13,11 @@ if you are here because of job application, see below
 currently working on [bloom-in](https://github.com/DAF201/bloom-in/)
 
 ----
+
+10/12/22
+
+Bloom-in dev stop for a while for math midterm
+
 10/10/22
 
 VSC blowed up but I have no idea how to fix it
