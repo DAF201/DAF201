@@ -15,7 +15,9 @@ currently working on [bloom-in](https://github.com/DAF201/bloom-in/)
 ----
 10/22/22
 
-I think I need sometime to recover from school-style life...
+~~I think I need sometime to recover from school-style life...~~
+
+I am trying to figure out how should I splite file
 
 10/12/22
 
