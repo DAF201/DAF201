@@ -13,6 +13,9 @@ if you are here because of job application, see below
 currently working on [bloom-in](https://github.com/DAF201/bloom-in/)
 
 ----
+10/22/22
+
+I think I need sometime to recover from school-style life...
 
 10/12/22
 
