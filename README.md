@@ -2,6 +2,8 @@ The website for backup and such things is still there, but I lost my private key
 
 [blink-in](https://www.blink-in.com)
 
+(SORRY blink-in does not work any more due to the change of policy of database, but other functions are working still)
+
 Since I cannot access the server to update, feel free to use the [APIs](https://github.com/DAF201/DAF201/blob/main/APIs.pdf)
 
 Maybe I will make a new one using other tools when I am free in the future.
