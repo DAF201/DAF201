@@ -2,7 +2,7 @@ The website for backup and such things is still there, but I lost my private key
 
 [blink-in](https://www.blink-in.com)
 
-(SORRY blink-in images and files upload/download does not work any more due to the change of policy of database, but other functions are working still)
+(SORRY blink-in images and files upload/download do not work anymore due to the change of policy of the database, but other functions are working still)
 
 Since I cannot access the server to update, feel free to use the [APIs](https://github.com/DAF201/DAF201/blob/main/APIs.pdf)
 
