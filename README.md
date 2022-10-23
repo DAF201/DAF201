@@ -12,6 +12,8 @@ if you are here because of job application, see below
 
 currently working on [bloom-in](https://github.com/DAF201/bloom-in/)
 
+---
+
 progress:
 
 Remote connection ✓
