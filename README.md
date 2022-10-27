@@ -32,7 +32,7 @@ Remote file transportation ✗(I am sorry for being an idiot, I cannot fix the p
 
 10/26/22
 
-I give up, I will start revive bloom-in instead... And upload file to bloom-in rather than make an FTP protocol...
+I give up, I will start to revive bloom-in instead... And upload file to bloom-in rather than make an FTP protocol...
 
 10/22/22
 
