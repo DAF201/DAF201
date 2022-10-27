@@ -29,6 +29,11 @@ Remote file transportation ✗(I am sorry for being an idiot, I cannot fix the p
 ![](https://github.com/DAF201/bloom-in/blob/main/images/Screenshot%20(138).png)
 
 ----
+
+10/26/22
+
+I give up, I will start revive bloom-in instead... And upload file to bloom-in rather than make an FTP protocol...
+
 10/22/22
 
 ~~I think I need sometime to recover from school-style life...~~
