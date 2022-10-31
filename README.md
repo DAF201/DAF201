@@ -29,6 +29,11 @@ Remote file transportation ✗(I am sorry for being an idiot, I cannot fix the p
 ![](https://github.com/DAF201/bloom-in/blob/main/images/Screenshot%20(138).png)
 
 ----
+10/31/22
+
+CA people's holloween is so damning cool && I am making curl.h for bloom-in for file transportation
+
+![](https://github.com/DAF201/DAF201/blob/main/About/CB337C8E-1E28-43CF-A511-3B5C5D803E3C.png)
 
 10/26/22
 
