@@ -2,4 +2,4 @@
 
 常用Python, C++, Lua, 偶尔用 JS, shell, bat
 
-各种东西都会一点，目前在NTX Embedded兼职开发
+各种东西都会一点，目前在NTX Embedded兼职开发赚学费
