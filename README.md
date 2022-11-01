@@ -29,6 +29,11 @@ Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the 
 ![](https://github.com/DAF201/bloom-in/blob/main/images/Screenshot%20(138).png)
 
 ----
+
+11/01/22
+
+[bloom-in](https://github.com/DAF201/bloom-in/) v0.0.1 ready, release published
+
 10/31/22
 
 CA people's holloween is so damning cool && I am making curl.h for bloom-in for file transportation
