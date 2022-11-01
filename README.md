@@ -24,7 +24,7 @@ Remote printing ✓
 
 Remote command execution ✓
 
-Remote file transportation ✗(I am sorry for being an idiot, I cannot fix the package lossing problem with my FTP)
+Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the package lossing problem with my FTP)
 
 ![](https://github.com/DAF201/bloom-in/blob/main/images/Screenshot%20(138).png)
 
