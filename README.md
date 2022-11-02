@@ -55,7 +55,7 @@ I am trying to figure out how should I splite file
 10/12/22
 
 Bloom-in dev stop for a while for math midterm
-
+<!-- 
 10/10/22
 
 VSC blowed up but I have no idea how to fix it
@@ -64,4 +64,4 @@ VSC blowed up but I have no idea how to fix it
 
 Don't ask what happened, IDK, it just blowed up when I was trying to update libs
 
-![](https://github.com/DAF201/DAF201/blob/main/D7BFBCF6-D118-4151-BFB4-A225CB3209DE.png)
+![](https://github.com/DAF201/DAF201/blob/main/D7BFBCF6-D118-4151-BFB4-A225CB3209DE.png) -->
