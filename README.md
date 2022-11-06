@@ -14,7 +14,7 @@ if you are here because of job application, see below
 
 [About me(unfinish)](https://github.com/DAF201/DAF201/blob/main/About/readme.md)
 
-currently working on [bloom-in](https://github.com/DAF201/bloom-in/)
+currently working on [bloom-in(first release finished)](https://github.com/DAF201/bloom-in/)
 
 ---
 
