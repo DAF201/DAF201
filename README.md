@@ -32,6 +32,12 @@ Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the 
 
 ----
 
+11/09/22
+
+GAME THEROY
+
+![](https://github.com/DAF201/DAF201/blob/main/About/3CB6EF01-043D-46B0-B756-D42309B69ACB.png)
+
 11/01/22
 
 [bloom-in](https://github.com/DAF201/bloom-in/) v0.0.1 ready, release published
