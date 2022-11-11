@@ -34,7 +34,7 @@ Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the 
 
 11/11/22
 
-pratice propose
+practice purpose
 
 [serial_port](https://github.com/DAF201/serial_port_tool)
 
