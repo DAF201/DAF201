@@ -32,6 +32,10 @@ Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the 
 
 ----
 
+11/30/22
+
+BEING BUSY FOR FINAL
+
 11/11/22
 
 practice purpose
