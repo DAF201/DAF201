@@ -31,6 +31,9 @@ Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the 
 ![](https://github.com/DAF201/bloom-in/blob/main/images/Screenshot%20(138).png)
 
 ----
+12/02/22
+
+high school teacher still having the statue I made in the classroom wtf
 
 11/30/22
 
