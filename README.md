@@ -14,11 +14,13 @@ if you are here because of job application, see below
 
 [About me(unfinish)](https://github.com/DAF201/DAF201/blob/main/About/readme.md)
 
-currently working on [bloom-in(first release finished)](https://github.com/DAF201/bloom-in/)
+~currently working on [bloom-in(first release finished)](https://github.com/DAF201/bloom-in/)~
+
+Finished V0.0.1 bloom-in
 
 ---
 
-progress:
+<!-- progress:
 
 Remote connection ✓
 
@@ -26,9 +28,9 @@ Remote printing ✓
 
 Remote command execution ✓
 
-Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the package lossing problem with my FTP)
+Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the package lossing problem with my FTP) -->
 
-![](https://github.com/DAF201/bloom-in/blob/main/images/Screenshot%20(138).png)
+<!-- ![](https://github.com/DAF201/bloom-in/blob/main/images/Screenshot%20(138).png) -->
 
 ----
 12/02/22
