@@ -35,7 +35,7 @@ Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the 
 ----
 12/14/22
 
-Both with and without GUI virtual modbus simulator finished (GUI made by HTML/JS/CSS, I don't know how to use tkiner)
+Both with and without GUI virtual modbus simulator finished (GUI made by HTML/JS/CSS, I don't know how to use tkinter)
 
 12/02/22
 
