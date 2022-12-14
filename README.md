@@ -16,7 +16,9 @@ if you are here because of job application, see below
 
 ~currently working on [bloom-in(first release finished)](https://github.com/DAF201/bloom-in/)~
 
-Finished V0.0.1 bloom-in
+~~Finished V0.0.1 bloom-in~~
+
+working on FTP protocol for bloom-in V0.0.2
 
 ---
 
