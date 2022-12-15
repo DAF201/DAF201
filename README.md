@@ -35,6 +35,10 @@ Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the 
 <!-- ![](https://github.com/DAF201/bloom-in/blob/main/images/Screenshot%20(138).png) -->
 
 ----
+12/15/22
+
+I hate JAVA🤐
+
 12/14/22
 
 Both with and without GUI virtual modbus simulator finished (GUI made by HTML/JS/CSS, I don't know how to use tkinter)
