@@ -39,6 +39,11 @@ Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the 
 
 I hate JAVA🤐
 
+&&
+
+Did someone just started my repo? That is quite a big surprise thank you man
+
+
 12/14/22
 
 Both with and without GUI virtual modbus simulator finished (GUI made by HTML/JS/CSS, I don't know how to use tkinter)
