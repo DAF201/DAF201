@@ -35,6 +35,13 @@ Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the 
 <!-- ![](https://github.com/DAF201/bloom-in/blob/main/images/Screenshot%20(138).png) -->
 
 ----
+
+12/26/22
+
+This city(Las Vegas) is too fancy to out of date people like me
+
+![](https://github.com/DAF201/DAF201/blob/main/0C569706-2E2E-41F4-8536-052B7A14C041.jpg)
+
 12/15/22
 
 I hate JAVA🤐
