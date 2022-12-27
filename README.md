@@ -36,6 +36,10 @@ Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the 
 
 ----
 
+12/27/22
+
+Start working on blink-in v0.0.2
+
 12/26/22
 
 This city(Las Vegas) is too fancy to out of date people like me
