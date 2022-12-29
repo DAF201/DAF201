@@ -1,5 +1,5 @@
-For [chinese](https://github.com/DAF201/DAF201/tree/main/cn)
----
+<!-- For [chinese](https://github.com/DAF201/DAF201/tree/main/cn)
+<!-- ---
 The website for backup and such things is still there, but I lost my private key to the server... Which means I cannot update it... I am an idiot
 
 [blink-in](https://www.blink-in.com)
@@ -20,7 +20,7 @@ if you are here because of job application, see below
 
 working on FTP protocol for bloom-in V0.0.2
 
----
+--- -->
 
 <!-- progress:
 
@@ -34,7 +34,7 @@ Remote file transportation ✓?(I am sorry for being an idiot, I cannot fix the 
 
 <!-- ![](https://github.com/DAF201/bloom-in/blob/main/images/Screenshot%20(138).png) -->
 
-----
+<!-- ----
 
 12/27/22
 
@@ -83,25 +83,25 @@ GAME THEORY
 
 [bloom-in](https://github.com/DAF201/bloom-in/) v0.0.1 ready, release published
 
-10/31/22
+10/31/22 -->
 
-CA people's holloween is so damning cool && I am making curl.h for bloom-in for file transportation
+<!-- CA people's holloween is so damning cool && I am making curl.h for bloom-in for file transportation -->
 
-![](https://github.com/DAF201/DAF201/blob/main/About/CB337C8E-1E28-43CF-A511-3B5C5D803E3C.png)
+<!-- ![](https://github.com/DAF201/DAF201/blob/main/About/CB337C8E-1E28-43CF-A511-3B5C5D803E3C.png) -->
 
-10/26/22
+<!-- 10/26/22 -->
 
-I give up, I will start to revive bloom-in instead... And upload file to bloom-in rather than make an FTP protocol...
+<!-- I give up, I will start to revive bloom-in instead... And upload file to bloom-in rather than make an FTP protocol... -->
 
-10/22/22
+<!-- 10/22/22 -->
 
-~~I think I need sometime to recover from school-style life...~~
+<!-- ~~I think I need sometime to recover from school-style life...~~ -->
 
-I am trying to figure out how should I splite file
+<!-- I am trying to figure out how should I splite file -->
 
-10/12/22
+<!-- 10/12/22 -->
 
-Bloom-in dev stop for a while for math midterm
+<!-- Bloom-in dev stop for a while for math midterm -->
 <!-- 
 10/10/22
 
