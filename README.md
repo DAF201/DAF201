@@ -9,7 +9,7 @@ and some other little garbages
 
 daf201@blink-in.com
 
-[https://blink-in.com](http://blink-in.com)(~will be replaced once the new one finished~replaced, but no https)
+[https://blink-in.com](http://blink-in.com)(~will be replaced once the new one finished~ already replaced, but no https)
 
 
 
