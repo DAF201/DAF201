@@ -1,3 +1,4 @@
+finished "happy sugar life", now watching "Gambling Apocalypse"
 
 [simu](https://github.com/DAF201/simu)
 
