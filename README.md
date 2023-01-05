@@ -13,10 +13,47 @@ daf201@blink-in.com
 
 No, I don't know android or any type of UI dev(that is why I self-taught JS)
 
-
-
-
-
+<details><summary>also if any of my co-worker is reading this because of my doc or what...</summary>
+  
+don't write something like
+```javascript
+function demo(x) {
+    if (x == 0) {
+        console.log('x = 0')
+    } else {
+        if (x == 1) {
+            console.log('x = 1')
+        } else {
+            if (x == 2) {
+                console.log('x = 2')
+            }
+        }
+    }
+}
+var number = Math.floor(Math.random() * 3)
+demo(number)
+```
+use if return instead
+```javascript
+function demo(x) {
+    if (x == 0) {
+        console.log('x = 0')
+        return
+    }
+    if (x == 1) {
+        console.log('x = 1')
+        return
+    }
+    if (x == 2) {
+        console.log('x = 2')
+        return
+    }
+}
+var number = Math.floor(Math.random() * 3)
+demo(number)
+```
+Once I read 2000+ lines of if else to find a bug summer 2022 hahaha...
+</detail>
 
 
 
