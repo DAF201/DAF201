@@ -1,5 +1,7 @@
 finished "happy sugar life", now watching "Gambling Apocalypse"
 
+&& I made all my "early age black history repos" public
+
 > Some personal repos:
 >
 > [simu](https://github.com/DAF201/simu)
