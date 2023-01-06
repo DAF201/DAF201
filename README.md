@@ -1,14 +1,14 @@
 finished "happy sugar life", now watching "Gambling Apocalypse"
 
-Some personal repos:
-
-[simu](https://github.com/DAF201/simu)
-
-[bloom-in](https://github.com/DAF201/bloom-in)
-
-[blink-in](https://github.com/DAF201/blink-in_v0.0.2)
-
-and some other little garbages
+> Some personal repos:
+>
+> [simu](https://github.com/DAF201/simu)
+>
+> [bloom-in](https://github.com/DAF201/bloom-in)
+>
+> [blink-in](https://github.com/DAF201/blink-in_v0.0.2)
+>
+> and some other little fancy garbages
 
 daf201@blink-in.com
 
