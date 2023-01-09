@@ -16,7 +16,7 @@ daf201@blink-in.com
 
 [http://blink-in.com](http://blink-in.com)(~will be replaced once the new one finished~ already replaced, but no https and API only)
 
-No, I don't know android or any type of UI dev(that is why I self-taught JS)
+No, I don't know android or any type of UI dev(that is why I self-taught JS ~actually most of my programming knowledge was self-taught~)
 
 <details><summary>also if any of my co-worker is reading this because of my doc or what...</summary>
   
