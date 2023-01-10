@@ -14,7 +14,7 @@ finished "happy sugar life", now watching "Gambling Apocalypse"
 
 daf201@blink-in.com
 
-[http://blink-in.com](http://blink-in.com)(~will be replaced once the new one finished~ already replaced, but no https and API only)
+[https://blink-in.com](https://blink-in.com)(~will be replaced once the new one finished~ already replaced, but no https and API only)
 
 No, I don't know android or any type of UI dev(that is why I self-taught JS ~actually most of my programming knowledge was self-taught~)
 
