@@ -1,6 +1,8 @@
 finished "happy sugar life", now watching "Gambling Apocalypse"
 
-&& I made all my "early age embarrassing history repos" public
+&& I made all my "early age embarrassing history repos" public 
+
+&& I archived all the repos I am likely not going to have further update on them
 
 > Some personal repos:
 >
