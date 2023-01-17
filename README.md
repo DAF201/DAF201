@@ -4,6 +4,8 @@ finished "happy sugar life", now watching "Gambling Apocalypse"
 
 && I archived all the repos I am likely not going to have further update on them
 
+&& Good instructors/professors don't use "platforms" to teach students@UTDALLAS
+
 > Some personal repos:
 >
 > [simu](https://github.com/DAF201/simu)
