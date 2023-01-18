@@ -8,6 +8,8 @@ finished "happy sugar life", now watching "Gambling Apocalypse"
 
 && @Zybook give my refund you useless garbage!
 
+&& Very busy currently... dev stopped
+
 > Some personal repos:
 >
 > [simu](https://github.com/DAF201/simu)
