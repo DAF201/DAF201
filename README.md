@@ -6,8 +6,6 @@ finished "happy sugar life", now watching "Gambling Apocalypse"
 
 && Good instructors/professors don't use "platforms" to teach students@UTDALLAS
 
-&& @Zybook give my refund you useless garbage!
-
 && Very busy currently... dev stopped
 
 > Some personal repos:
