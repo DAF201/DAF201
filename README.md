@@ -6,6 +6,8 @@ finished "happy sugar life", now watching "Gambling Apocalypse"
 
 && Very busy currently... dev stopped
 
+&& Just update music playlist
+
 > Some personal repos:
 >
 > [simu](https://github.com/DAF201/simu)
