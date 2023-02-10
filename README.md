@@ -1,4 +1,4 @@
-finished "happy sugar life", now watching "Gambling Apocalypse"
+finished "happy sugar life", ~~now watching "Gambling Apocalypse"~~ now being busy for school HW and projects
 
 && I made all my "early age embarrassing history repos" public 
 
