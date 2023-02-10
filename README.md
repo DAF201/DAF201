@@ -6,7 +6,7 @@ finished "happy sugar life", ~~now watching "Gambling Apocalypse"~~ now being bu
 
 && Very busy currently... dev stopped
 
-&& Just update music playlist
+&& Just update music playlist (just realized blink-in make not work for all resolutions, but I am not a UI design so I dont know how to fix this sorry)
 
 > Some personal repos:
 >
