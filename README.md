@@ -8,6 +8,10 @@ finished "happy sugar life", ~~now watching "Gambling Apocalypse"~~ now being bu
 
 && Just update music playlist (just realized blink-in make not work for all resolutions, but I am not a UI design so I dont know how to fix this sorry)
 
+&& A project I participated in designing started the test
+
+![](https://github.com/DAF201/DAF201/blob/main/images/5FE90B19-F08E-44C9-A10C-8E76C21A89BF.jpg)
+
 > Some personal repos:
 >
 > [simu](https://github.com/DAF201/simu)
