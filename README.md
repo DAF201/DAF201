@@ -10,7 +10,7 @@ finished "happy sugar life", ~~now watching "Gambling Apocalypse"~~ now being bu
 
 && No longer working for NTX, my courses are too busy, time to get back to library
 
-[//]: # && A project I participated in designing started the test
+[//]: # (&& A project I participated in designing started the test)
 
 [//]: # (https://github.com/DAF201/DAF201/blob/main/images/5FE90B19-F08E-44C9-A10C-8E76C21A89BF.jpg)
 
