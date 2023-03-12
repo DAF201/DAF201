@@ -27,6 +27,12 @@ finished "happy sugar life", ~~now watching "Gambling Apocalypse"~~ now being bu
 daf201@blink-in.com
 
 [https://blink-in.com](https://blink-in.com)(~will be replaced once the new one finished~ already replaced, ~but no https~ now is https and API only)
+
+Python: one line
+![](https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(261).png)
+Assembly: 93 lines
+![](https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(260).png)
+but you still need to use assembly even nobody use it today but the school hahaha...
 <!-- 
 No, I don't know android or any type of UI dev(that is why I self-taught JS ~actually most of my programming knowledge was self-taught~)
 
