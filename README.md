@@ -33,6 +33,9 @@ Python: one line
 Assembly: 93 lines
 ![](https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(260).png)
 but you still need to use assembly even nobody use it today but the school hahaha...
+
+treat yourself(medically)
+![](https://github.com/DAF201/DAF201/blob/main/images/1EB8CA75-F336-420A-B7FE-41BA381776CC.jpg)
 <!-- 
 No, I don't know android or any type of UI dev(that is why I self-taught JS ~actually most of my programming knowledge was self-taught~)
 
