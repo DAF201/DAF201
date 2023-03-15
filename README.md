@@ -10,6 +10,10 @@ finished "happy sugar life", ~~now watching "Gambling Apocalypse"~~ now being bu
 
 && No longer working for NTX, my courses are too busy, time to get back to library
 
+&& 过于真实的幻想露出了天使般的微笑
+
+![](https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(281).png)
+
 ## && server temporary shutdown, trying to move the program to my old laptop
 
 [//]: # (&& A project I participated in designing started the test)
