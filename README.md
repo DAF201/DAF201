@@ -14,7 +14,9 @@ finished "happy sugar life", ~~now watching "Gambling Apocalypse"~~ now being bu
 
 ![](https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(281).png)
 
-## && server temporary shutdown, trying to move the program to my old laptop
+## && server temporary shutdown, trying to move the program to my old laptop, but ssl is currently down
+
+![](https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(1).png)
 
 [//]: # (&& A project I participated in designing started the test)
 
