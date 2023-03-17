@@ -34,7 +34,7 @@ finished "happy sugar life", ~~now watching "Gambling Apocalypse"~~ now being bu
 
 daf201@blink-in.com
 
-[https://blink-in.com](https://blink-in.com)(~will be replaced once the new one finished~ already replaced, ~but no https~ now is https and API only)
+[http://blink-in.com](http://blink-in.com)(~will be replaced once the new one finished~ already replaced, ~but no https~ now is https and API only)(SSL currently down)
 
 Python: one line
 ![](https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(261).png)
