@@ -1,3 +1,9 @@
+
+Clearify first, my coding style is not as bad as my school GPA nor my personality
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daf201)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 finished "happy sugar life", ~~now watching "Gambling Apocalypse"~~ now being busy for school HW and projects
 
 && I made all my "early age embarrassing history repos" public 
@@ -45,8 +51,6 @@ but you still need to use assembly even nobody use it today but the school hahah
 treat yourself(medically)
 ![](https://github.com/DAF201/DAF201/blob/main/images/1EB8CA75-F336-420A-B7FE-41BA381776CC.jpg)
 
-My coding style is not as bad as my school GPA
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daf201)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 No, I don't know android or any type of UI dev(that is why I self-taught JS ~actually most of my programming knowledge was self-taught~)
 
