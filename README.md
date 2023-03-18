@@ -1,10 +1,10 @@
-Clearify first, my coding style is not as bad as my school GPA, living style nor myself
+<!-- Clearify first, my coding style is not as bad as my school GPA, living style nor myself
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daf201)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daf201)](https://github.com/anuraghazra/github-readme-stats)
 
----
+--- -->
 finished "happy sugar life", ~~now watching "Gambling Apocalypse"~~ now being busy for school HW and projects
 
 && I made all my "early age embarrassing history repos" public 
