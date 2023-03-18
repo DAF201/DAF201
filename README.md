@@ -1,5 +1,4 @@
-
-Clearify first, my coding style is not as bad as my school GPA nor my personality
+Clearify first, my coding style is not as bad as my school GPA, living style nor my personality
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daf201)](https://github.com/anuraghazra/github-readme-stats)
 
