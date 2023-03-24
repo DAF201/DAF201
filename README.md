@@ -15,6 +15,10 @@ finished "happy sugar life", ~~now watching "Gambling Apocalypse"~~ now being bu
 
 && Just update music playlist (just realized blink-in make not work for all resolutions, but I am not a UI design so I dont know how to fix this sorry)
 
+&& I am a fan of Nanawo Akari and Terada Tera
+
+![](https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(313).png)
+
 && No longer working for NTX, my courses are too busy, time to get back to library
 
 && 过于真实的幻想露出了天使般的微笑
