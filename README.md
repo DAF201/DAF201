@@ -6,12 +6,11 @@
 ``` -->
 <image src="https://github.com/DAF201/DAF201/blob/main/images/2E4EC730-A129-4400-AFA3-B814AE242348.png" width=7% align="left">
 <div>    
-    <h4 align=left style="float:left">DAF201</h4>
-    <sub style="font-size: xx-small;float:left">poor UTD CS student</sub>
+    <h2 align=left style="float:left">DAF201</h2>
+    <sub style="font-size: xx-small;float:left">a poor UTD CS student</sub>
 </div>
 <br>
-
-
+    
 ```yaml
 Recent_Activity:                     0 hours past 2 weeks 
 ```
