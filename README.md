@@ -21,9 +21,4 @@ Recent Activity:                     0 hours past 2 weeks
 [<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(329).png" width=23% style="float:left">](https://github.com/DAF201/bloom-in)
 [<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(330).png" width=23% style="float:left">](https://github.com/DAF201/blink-in_v0.0.2)
 [<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(331).png" width=23% style="float:left">](https://github.com/DAF201/simu)
-    
-<br>
-<br>
-    
-<image align=center src="https://github-readme-stats.vercel.app/api?username=daf201&show_icons=true">
-<image align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=daf201&layout=compact">
+
