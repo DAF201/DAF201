@@ -18,9 +18,9 @@ Recent Activity:                     0 hours past 2 weeks
 ```
 
 [<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(326).png" width=23% style="float:left">](https://github.com/DAF201/TASKMGR)
-[<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(329).png" width=23% style="float:left">](https://github.com/DAF201/TASKMGR)
-[<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(330).png" width=23% style="float:left">](https://github.com/DAF201/TASKMGR)
-[<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(331).png" width=23% style="float:left">](https://github.com/DAF201/TASKMGR)
+[<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(329).png" width=23% style="float:left">](https://github.com/DAF201/bloom-in)
+[<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(330).png" width=23% style="float:left">](https://github.com/DAF201/blink-in_v0.0.2)
+[<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(331).png" width=23% style="float:left">](https://github.com/DAF201/simu)
     
 <br>
 <br>
