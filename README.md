@@ -16,3 +16,6 @@
 Recent Activity:              not a lot hours past 2 weeks 
     
 ```
+    
+    <image align=center src="https://github-readme-stats.vercel.app/api?username=daf201&show_icons=true">
+    <image align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=daf201&layout=compact">
