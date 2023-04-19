@@ -17,8 +17,13 @@ Recent Activity:                     0 hours past 2 weeks
     
 ```
 
-[<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(326).png" width=25%>](https://github.com/DAF201/TASKMGR)
+[<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(326).png" width=23% style="float:left">](https://github.com/DAF201/TASKMGR)
+[<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(329).png" width=23% style="float:left">](https://github.com/DAF201/TASKMGR)
+[<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(330).png" width=23% style="float:left">](https://github.com/DAF201/TASKMGR)
+[<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(331).png" width=23% style="float:left">](https://github.com/DAF201/TASKMGR)
     
-
+<br>
+<br>
+    
 <image align=center src="https://github-readme-stats.vercel.app/api?username=daf201&show_icons=true">
 <image align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=daf201&layout=compact">
