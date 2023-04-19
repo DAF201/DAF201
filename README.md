@@ -13,6 +13,7 @@
     
 ```yaml
 Recent_Activity:                     0 hours past 2 weeks 
+Steam: https://steamcommunity.com/profiles/76561198442411800/
 ```
 
 [<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(326).png" width=23% style="float:left">](https://github.com/DAF201/TASKMGR)
