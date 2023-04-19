@@ -13,7 +13,7 @@
 
 
 ```diff
-Recent Activity:                         0 hours past 2 weeks 
+Recent Activity:                     0 hours past 2 weeks 
     
 ```
 
