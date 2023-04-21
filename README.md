@@ -12,7 +12,7 @@
 <br>
     
 ```yaml
-Recent_Activity:                     NaN hours past 2 weeks 
+Recent_Activity:                    NaN hours past 2 weeks 
 Steam: steamcommunity.com/profiles/76561198442411800/
 ```
 
