@@ -21,5 +21,6 @@ Steam: steamcommunity.com/profiles/76561198442411800/
 [<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(330).png" width=23% style="float:left">](https://github.com/DAF201/blink-in_v0.0.2)
 [<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(331).png" width=23% style="float:left">](https://github.com/DAF201/simu)
 
-[<image src="https://github-readme-activity-graph.cyclic.app/graph?username=daf201&theme=github-compact" width=50%>](https://github.com/Ashutosh00710/github-readme-activity-graph) 
+<p align="middle" style="font-size:8">I am back from CA, will continue with TASKMGRs</p>   
+<!-- [<image src="https://github-readme-activity-graph.cyclic.app/graph?username=daf201&theme=github-compact" width=50%>](https://github.com/Ashutosh00710/github-readme-activity-graph)  -->
    
