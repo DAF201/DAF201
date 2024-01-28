@@ -22,5 +22,7 @@ Steam: steamcommunity.com/profiles/76561198442411800/
 [<image src="https://github.com/DAF201/DAF201/blob/main/images/Screenshot%20(331).png" width=23% style="float:left">](https://github.com/DAF201/simu)
 
 [<image src="https://fabianocouto-activity-graph.vercel.app/graph/?username=daf201&theme=github-compact" width=50%>](https://github.com/Ashutosh00710/github-readme-activity-graph) 
+
+I just moved Blink-in to the new computer I built. It should be much faster now.(I am not lazy, just being busy to review and rewrite/debug old code)
    
 <h1 align=middle style="font-size: xx-small;">9 + 10 = 21</h1>
