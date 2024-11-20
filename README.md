@@ -7,12 +7,13 @@
 <image src="https://github.com/DAF201/DAF201/blob/main/images/2E4EC730-A129-4400-AFA3-B814AE242348.png" width=7% align="left">
 <div>    
     <h2 align=left style="float:left">DAF201</h2>
-    <sub style="font-size: xx-small;float:left">a poor new grad UTD CS student</sub>
+    <sub style="font-size: xx-small;float:left">a poor new grad <a href="https://www.utdallas.edu/">UTD</a> Computer Science student</sub>
 </div>
 <br>
     
 ```yaml
-Recent_Activity:                    NaN hours past 2 weeks 
+GPA: 3.34
+CS Major GPA: 3.75
 Steam: steamcommunity.com/profiles/76561198442411800/
 ```
 
