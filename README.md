@@ -14,7 +14,6 @@
 ```yaml
 GPA: 3.34
 CS Major GPA: 3.75
-Personal Website(API only): https:blink-in.com
 Steam: steamcommunity.com/profiles/76561198442411800/
 ```
 
